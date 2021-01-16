@@ -32,7 +32,7 @@ Conteúdo produzido durante o Hackathon
 - [ ] Pagina de cadastro de dados da Empresa
 - [ ] Pagina de seleção de candidato da Empresa *
 - [ ] Pagina de Empresas interessadas num Aluno
-- [ ] Pagina do Blog
+- [ ] Pagina do Blog de auxilio ao primeiro emprego
 
 ######\* Seleção de candidatos até o momento sera feita com o avaliador selecionando os filtros que correspondem o currículo e pretensões necessárias a vaga. Esta solução foi escolhida para contemplar o tempo do evento e sera alterada na segunda etapa.
 #### Etapa 2: 
@@ -41,8 +41,21 @@ Conteúdo a ser produzido após o termino do Hackathon
 
 - [ ] Possibilidade da empresa publicar vagas  
 - [ ] Seleção de candidatos por vagas de acordo com seu currículo e pretensões
+- [ ] Avaliação das empresas de acordo com o feedback retornado aos 
+- [ ] Adicionar Login e autenticação
 - [ ] 
 ### Repositórios 
 No desenvolvimento dessa solução dividimos em 3 repositórios sendo um repositório para a API, um repositório para o frontend e um repositório para a documentação produzida no evento. Os links se encontram abaixo:
 
 [API](https://github.com/GianMantuan/hackathon-ccr-api) | [FrontEnd](https://github.com/GianMantuan/hackathon-ccr-mobile) | [Documentação](https://github.com/GianMantuan/hackathon-ccr-documentation)
+
+
+### Agradecimentos
+
+Gostaríamos de agradecer aos mentores que agiram de forma essencial para o desenvolvimento desse projeto, dentre eles estão: 
+
+###### Fabio Portela Rodrigues
+###### Fabio Schmid
+###### Rodrigo Bravim Roque
+###### Maria Cristina dos Santos
+
