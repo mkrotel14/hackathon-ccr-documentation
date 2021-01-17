@@ -134,8 +134,8 @@ Ex-bolsista de pesquisa e extensão em Filosofia direcionada a área de Epistemo
 
 Gostaríamos de agradecer aos mentores que agiram de forma essencial para o desenvolvimento desse projeto, dentre eles estão: 
 
-###### Fabio Portela Rodrigues
-###### Fabio Schmid
-###### Rodrigo Bravim Roque
-###### Maria Cristina dos Santos
+<h6> Fabio Portela Rodrigues
+<h6> Fabio Schmid
+<h6> Rodrigo Bravim Roque
+<h6> Maria Cristina dos Santos
 
