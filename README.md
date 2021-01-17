@@ -90,7 +90,7 @@ programação e projeto.
 
 <andre@monegat.com.br>
 <div>
-    <img src="img/caleb1.jpg" style="width:100pt;border-radius:50%">
+    <img src="img/caleb2.png" style="width:100pt;border-radius:50%">
 </div>
 <h6> Calebe de Carvalho Luz</h6> 
 
@@ -101,7 +101,7 @@ Estudante de engenharia de software
 <calebedcluz@gmail.com>
 
 <div>
-    <img src="img/ezeq.jpg" style="width:100pt;border-radius:50%">
+    <img src="img/ezeq1.png" style="width:100pt;border-radius:50%">
 </div>
 <h6> Ezequiel de Carvalho Luz</h6> 
 
