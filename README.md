@@ -34,7 +34,7 @@ Conteúdo produzido durante o Hackathon
 - [ ] Pagina de Empresas interessadas num Aluno
 - [ ] Pagina do Blog de auxilio ao primeiro emprego
 
-######\* Seleção de candidatos até o momento sera feita com o avaliador selecionando os filtros que correspondem o currículo e pretensões necessárias a vaga. Esta solução foi escolhida para contemplar o tempo do evento e sera alterada na segunda etapa.
+#####\* Seleção de candidatos até o momento sera feita com o avaliador selecionando os filtros que correspondem o currículo e pretensões necessárias a vaga. Esta solução foi escolhida para contemplar o tempo do evento e sera alterada na segunda etapa.
 #### Etapa 2: 
 
 Conteúdo a ser produzido após o termino do Hackathon
@@ -54,9 +54,9 @@ Backend foi desenvolvido com Express e Typescript com banco de dados não relaci
 
 ### Nossa equipe
 <div>
-     <img src="img/Gian.jpg" href="" style="width:20%;border-radius:50%">
+     <img src="img/Gian.jpg" href="" style="width:100pt;border-radius:50%">
 </div>
-###### Gian Carlo Mantuan Dala Rosa
+##### Gian Carlo Mantuan Dala Rosa
 
 Formado em Analise e desenvolvimento de sistemas
 com experiencia na area de programação.
@@ -65,9 +65,9 @@ com experiencia na area de programação.
 <giancarlo.mdr@gmail.com>
 
 <div>
-    <img src="img/Ricardo.jpg" style="width:20%;border-radius:50%">
+    <img src="img/Ricardo.jpg" style="width:100pt;border-radius:50%">
 </div>
-###### Ricardo Fedrigo 
+##### Ricardo Fedrigo 
 
 Estudante de Ciência da Computação
 programador com experiencia em desenvolvimento.
@@ -75,9 +75,9 @@ Formado em em técnico em eletrotécnica
 [RicardoFedrigo](https://github.com/RicardoFedrigo)
 <ricardofedrigo1995@gmail.com>
 <div>
-    <img src="img/monegat.jpg" style="width:20%;border-radius:50%">
+    <img src="img/monegat.jpg" style="width:100pt;border-radius:50%">
 </div>
-######Andre Lucas Monegat Costa 
+##### Andre Lucas Monegat Costa 
  
 Estudante de Ciência da Computação
 com experiencia na área de CAD
@@ -86,9 +86,9 @@ programação e projeto.
 [Monegat](https://github.com/Monegat)
 <andre@monegat.com.br>
 <div>
-    <img src="img/caleb1.jpg" style="width:20%;border-radius:50%">
+    <img src="img/caleb1.jpg" style="width:100pt;border-radius:50%">
 </div>
-######Calebe de Carvalho Luz
+##### Calebe de Carvalho Luz
 
 Estudante de engenharia de software
 
@@ -96,9 +96,9 @@ Estudante de engenharia de software
 <calebedcluz@gmail.com>
 
 <div>
-    <img src="img/ezeq.jpg" style="width:20%;border-radius:50%">
+    <img src="img/ezeq.jpg" style="width:100pt;border-radius:50%">
 </div>
-######Ezequiel de Carvalho Luz
+##### Ezequiel de Carvalho Luz
 
 
 Estudante de Engenharia Eletrônica
@@ -109,9 +109,9 @@ Eletrônicas, CAD e Design.
 <ezequielcluz@gmail.com>
 
 <div>
-    <img src="img/paulo.jpg" style="width:20%;border-radius:50%">
+    <img src="img/paulo.jpg" style="width:100pt;border-radius:50%">
 </div>
-###### Paulo Roberto Vieira
+##### Paulo Roberto Vieira
 
 Estudante de Ciência da Computação.
 Consultor em engenharia de segurança da informação.
