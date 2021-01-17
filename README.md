@@ -1,4 +1,4 @@
-![logo](Mapas%20de%20empatia/logobranco.png)
+![logo](Mapas%20de%20empatia/../Mapas%20de%20empatia/logoazul.png)
 # Documentação referente a solução produzido pelo Time16 para o 2° Hackathon CCR 
 ## Sobre a solução Emprega ai
 Durante o Hackathon desenvolvemos uma solução que visa trazer oportunidades de emprego e estagio para estudantes de ensino médio e universitários com alguma vulnerabilidade social. Como medida de melhorar a combinatória de currículos para vagas incluímos as pretensões tanto para com os candidatos para quanto o que os entrevistadores esperam das vagas.
@@ -53,7 +53,7 @@ No desenvolvimento dessa solução dividimos em 3 repositórios sendo um reposit
 [API](https://github.com/GianMantuan/hackathon-ccr-api) | [FrontEnd](https://github.com/GianMantuan/hackathon-ccr-mobile) | [Documentação](https://github.com/GianMantuan/hackathon-ccr-documentation)
 
 ### Tecnologias utilizadas
-Backend foi desenvolvido com Express e Typescript com banco de dados não relacional mongoDb
+Backend foi desenvolvido com Express e Typescript com banco de dados não relacional mongoDb, FrontEnd foi desenvolvido em ReactNative.
 
 ### Nossa equipe
 <div>
@@ -124,8 +124,8 @@ Eletrônicas, CAD e Design.
 
 Estudante de Ciência da Computação.
 Consultor em engenharia de segurança da informação.
-Adminstrador de redes e sistemas operacionais.
-Programador voltado a ferramentas de redes.
+Administrador de redes e sistemas operacionais.
+Programador com foco a ferramentas de redes.
 Ex-bolsista de pesquisa e extensão em Filosofia direcionada a área de Epistemologia
 
 [scrolll0ck](https://github.com/scrolll0ck)
