@@ -19,6 +19,7 @@ Para melhor avaliação da nossa proposta criamos 2 mapas de Empatia para avalia
 [Estudante.pdf](Mapas%20de%20empatia/mapa%20de%20empatia%20estudante.pdf)
 
 -----
+
 ##### Empresa: 
 ![Estudante](Mapas%20de%20empatia/mapa%20de%20empatia%20empresa.png)
 [Empresa.pdf](Mapas%20de%20empatia/mapa%20de%20empatia%20empresa.pdf)
@@ -34,29 +35,30 @@ Para o desenvolvimento da solução dividimos o desenvolvimento em duas etapas, 
 Conteúdo produzido durante o Hackathon 
 
 - [x] API para Cadastro de Aluno, Empresa e blog.
-- [x] Pagina de Cadastro de Aluno
-- [x] Pagina de cadastro de dados da Empresa
-- [x] Pagina de seleção de candidato da Empresa *
-- [ ] Pagina de Empresas interessadas num Aluno
-- [ ] Pagina do Blog de auxilio ao primeiro emprego
+- [x] Pagina de Cadastro de Aluno.
+- [x] Pagina de cadastro de dados da Empresa.
+- [x] Pagina de seleção de candidato da Empresa *.
+- [ ] Pagina de Empresas interessadas em um Aluno.
+- [ ] Pagina do Blog de auxilio ao primeiro emprego.
 
 <h6>* Seleção de candidatos até o momento sera feita com o avaliador selecionando os filtros que correspondem o currículo e pretensões necessárias a vaga. Esta solução foi escolhida para contemplar o tempo do evento e sera alterada na segunda etapa.</h6>
+
 #### Etapa 2: 
 
-Conteúdo a ser produzido após o termino do Hackathon
+Conteúdo a ser produzido após o termino do Hackathon:
 
-- [ ] Possibilidade da empresa publicar vagas  
-- [ ] Seleção de candidatos por vagas de acordo com seu currículo e pretensões
-- [ ] Avaliação das empresas de acordo com o feedback retornado aos 
-- [ ] Adicionar Login e autenticação
-- [ ] Possibilidade de inclusão de foto para participante
-- [ ] Possibilidade de inclusão de certificados ao participante
-- [ ] Avaliação psicológica do perfil comportamental dos usuários
+- [ ] Possibilidade da empresa publicar vagas.  
+- [ ] Seleção de candidatos por vagas de acordo com seu currículo e pretensões.
+- [ ] Feedback da empresas do currículo.
+- [ ] Adicionar Login e autenticação.
+- [ ] Possibilidade de inclusão de foto para participante.
+- [ ] Possibilidade de inclusão de certificados ao participante.
+- [ ] Visualização de empresas próximas aos candidatos.
   
 ### Repositórios 
 No desenvolvimento dessa solução dividimos em 3 repositórios sendo um repositório para a API, um repositório para o frontend e um repositório para a documentação produzida no evento. Os links se encontram abaixo:
 
-[API](https://github.com/GianMantuan/hackathon-ccr-api) | [FrontEnd](https://github.com/GianMantuan/hackathon-ccr-mobile) | [Documentação](https://github.com/GianMantuan/hackathon-ccr-documentation)
+[API](https://github.com/GianMantuan/hackathon-ccr-api) | [Mobile-FrontEnd](https://github.com/GianMantuan/hackathon-ccr-mobile) | [Documentação](https://github.com/GianMantuan/hackathon-ccr-documentation)
 
 ### Tecnologias utilizadas
 Backend foi desenvolvido com Express e Typescript com banco de dados não relacional mongoDb, FrontEnd foi desenvolvido em ReactNative.
@@ -68,7 +70,7 @@ Backend foi desenvolvido com Express e Typescript com banco de dados não relaci
 <h6> Gian Carlo Mantuan Dala Rosa </h6> 
 
 Formado em Analise e desenvolvimento de sistemas
-com experiencia na area de programação.
+com experiencia na área de programação.
 
 [GianMantuan](https://github.com/GianMantuan)
 
