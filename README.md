@@ -49,7 +49,77 @@ No desenvolvimento dessa solução dividimos em 3 repositórios sendo um reposit
 
 [API](https://github.com/GianMantuan/hackathon-ccr-api) | [FrontEnd](https://github.com/GianMantuan/hackathon-ccr-mobile) | [Documentação](https://github.com/GianMantuan/hackathon-ccr-documentation)
 
+### Tecnologias utilizadas
+Backend foi desenvolvido com Express e Typescript com banco de dados não relacional mongoDb
 
+### Nossa equipe
+<div>
+     <img src="img/Gian.jpg" href="" style="width:20%;border-radius:50%">
+</div>
+###### Gian Carlo Mantuan Dala Rosa
+
+Formado em Analise e desenvolvimento de sistemas
+com experiencia na area de programação.
+
+[GianMantuan](https://github.com/GianMantuan)
+<giancarlo.mdr@gmail.com>
+
+<div>
+    <img src="img/Ricardo.jpg" style="width:20%;border-radius:50%">
+</div>
+###### Ricardo Fedrigo 
+
+Estudante de Ciência da Computação
+programador com experiencia em desenvolvimento.
+[RicardoFedrigo](https://github.com/RicardoFedrigo)
+<ricardofedrigo1995@gmail.com>
+<div>
+    <img src="img/monegat.jpg" style="width:20%;border-radius:50%">
+</div>
+######Andre Lucas Monegat Costa 
+ 
+Estudante de Ciência da Computação
+com experiencia na área de CAD
+programação e projeto.
+    
+[Monegat](https://github.com/Monegat)
+<andre@monegat.com.br>
+<div>
+    <img src="img/caleb.jpg" style="width:20%;border-radius:50%">
+</div>
+######Calebe de Carvalho Luz
+
+Estudante de engenharia de software
+
+[CalebedcLuz](https://github.com/CalebedcLuz)
+<calebedcluz@gmail.com>
+
+<div>
+    <img src="img/ezeq.jpg" style="width:20%;border-radius:50%">
+</div>
+######Ezequiel de Carvalho Luz
+
+
+Estudante de Engenharia Eletrônica
+Experiências na áreas Mecânicas
+Eletrônicas, CAD e Design.
+
+[EzequielCLuz](https://github.com/EzequielCLuz  )
+<ezequielcluz@gmail.com>
+
+<div>
+    <img src="img/paulo.jpg" style="width:20%;border-radius:50%">
+</div>
+###### Paulo Roberto Vieira
+
+Estudante de Ciência da Computação.
+Consultor em engenharia de segurança da informação.
+Adminstrador de redes e sistemas operacionais.
+Programador voltado a ferramentas de redes.
+Ex-bolsista de pesquisa e extensão em Filosofia direcionada a área de Epistemologia
+
+[scrolll0ck](https://github.com/scrolll0ck)
+<pvieira@alunos.utfpr.edu.br>
 ### Agradecimentos
 
 Gostaríamos de agradecer aos mentores que agiram de forma essencial para o desenvolvimento desse projeto, dentre eles estão: 
