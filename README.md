@@ -62,6 +62,7 @@ Formado em Analise e desenvolvimento de sistemas
 com experiencia na area de programação.
 
 [GianMantuan](https://github.com/GianMantuan)
+
 <giancarlo.mdr@gmail.com>
 
 <div>
@@ -72,7 +73,9 @@ com experiencia na area de programação.
 Estudante de Ciência da Computação
 programador com experiencia em desenvolvimento.
 Formado em em técnico em eletrotécnica   
+
 [RicardoFedrigo](https://github.com/RicardoFedrigo)
+
 <ricardofedrigo1995@gmail.com>
 <div>
     <img src="img/monegat.jpg" style="width:100pt;border-radius:50%">
@@ -84,6 +87,7 @@ com experiencia na área de CAD
 programação e projeto.
     
 [Monegat](https://github.com/Monegat)
+
 <andre@monegat.com.br>
 <div>
     <img src="img/caleb1.jpg" style="width:100pt;border-radius:50%">
@@ -93,6 +97,7 @@ programação e projeto.
 Estudante de engenharia de software
 
 [CalebedcLuz](https://github.com/CalebedcLuz)
+
 <calebedcluz@gmail.com>
 
 <div>
@@ -106,6 +111,7 @@ Experiências na áreas Mecânicas
 Eletrônicas, CAD e Design.
 
 [EzequielCLuz](https://github.com/EzequielCLuz  )
+
 <ezequielcluz@gmail.com>
 
 <div>
@@ -120,6 +126,7 @@ Programador voltado a ferramentas de redes.
 Ex-bolsista de pesquisa e extensão em Filosofia direcionada a área de Epistemologia
 
 [scrolll0ck](https://github.com/scrolll0ck)
+
 <pvieira@alunos.utfpr.edu.br>
 ### Agradecimentos
 
