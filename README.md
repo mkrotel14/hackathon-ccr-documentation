@@ -34,7 +34,7 @@ Conteúdo produzido durante o Hackathon
 - [ ] Pagina de Empresas interessadas num Aluno
 - [ ] Pagina do Blog de auxilio ao primeiro emprego
 
-#####\* Seleção de candidatos até o momento sera feita com o avaliador selecionando os filtros que correspondem o currículo e pretensões necessárias a vaga. Esta solução foi escolhida para contemplar o tempo do evento e sera alterada na segunda etapa.
+<h6>* Seleção de candidatos até o momento sera feita com o avaliador selecionando os filtros que correspondem o currículo e pretensões necessárias a vaga. Esta solução foi escolhida para contemplar o tempo do evento e sera alterada na segunda etapa.</h6>
 #### Etapa 2: 
 
 Conteúdo a ser produzido após o termino do Hackathon
@@ -56,7 +56,7 @@ Backend foi desenvolvido com Express e Typescript com banco de dados não relaci
 <div>
      <img src="img/Gian.jpg" href="" style="width:100pt;border-radius:50%">
 </div>
-##### Gian Carlo Mantuan Dala Rosa
+<h6> Gian Carlo Mantuan Dala Rosa </h6> 
 
 Formado em Analise e desenvolvimento de sistemas
 com experiencia na area de programação.
@@ -67,7 +67,7 @@ com experiencia na area de programação.
 <div>
     <img src="img/Ricardo.jpg" style="width:100pt;border-radius:50%">
 </div>
-##### Ricardo Fedrigo 
+<h6> Ricardo Fedrigo </h6> 
 
 Estudante de Ciência da Computação
 programador com experiencia em desenvolvimento.
@@ -77,7 +77,7 @@ Formado em em técnico em eletrotécnica
 <div>
     <img src="img/monegat.jpg" style="width:100pt;border-radius:50%">
 </div>
-##### Andre Lucas Monegat Costa 
+<h6> Andre Lucas Monegat Costa </h6> 
  
 Estudante de Ciência da Computação
 com experiencia na área de CAD
@@ -88,7 +88,7 @@ programação e projeto.
 <div>
     <img src="img/caleb1.jpg" style="width:100pt;border-radius:50%">
 </div>
-##### Calebe de Carvalho Luz
+<h6> Calebe de Carvalho Luz</h6> 
 
 Estudante de engenharia de software
 
@@ -98,7 +98,7 @@ Estudante de engenharia de software
 <div>
     <img src="img/ezeq.jpg" style="width:100pt;border-radius:50%">
 </div>
-##### Ezequiel de Carvalho Luz
+<h6> Ezequiel de Carvalho Luz</h6> 
 
 
 Estudante de Engenharia Eletrônica
@@ -111,7 +111,7 @@ Eletrônicas, CAD e Design.
 <div>
     <img src="img/paulo.jpg" style="width:100pt;border-radius:50%">
 </div>
-##### Paulo Roberto Vieira
+<h6> Paulo Roberto Vieira</h6> 
 
 Estudante de Ciência da Computação.
 Consultor em engenharia de segurança da informação.
