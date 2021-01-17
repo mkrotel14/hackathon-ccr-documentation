@@ -16,15 +16,16 @@ Para melhor avaliação da nossa proposta criamos 2 mapas de Empatia para avalia
 
 ##### Estudante: 
 ![Estudante](Mapas%20de%20empatia/mapa%20de%20empatia%20estudante.png)
+[Estudante.pdf](Mapas%20de%20empatia/mapa%20de%20empatia%20estudante.pdf)
 
 -----
 ##### Empresa: 
 ![Estudante](Mapas%20de%20empatia/mapa%20de%20empatia%20empresa.png)
-
+[Empresa.pdf](Mapas%20de%20empatia/mapa%20de%20empatia%20empresa.pdf)
 
 ## Lean Canvas
-
-[Lean canvas](/Mapas%20de%20empatia/leancanvas1.pdf)
+![LeanCanvas](/Lean%20Canvas/leancanvas3.png)
+[Lean canvas](/Lean%20Canvas/leancanvas3.pdf)
 ## Roadmap
 
 Para o desenvolvimento da solução dividimos o desenvolvimento em duas etapas, sendo a primeira a ser executada durante o Hackathon e a segunda após o termino devido o tamanho da solução.
