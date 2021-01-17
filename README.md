@@ -21,6 +21,10 @@ Para melhor avaliação da nossa proposta criamos 2 mapas de Empatia para avalia
 ##### Empresa: 
 ![Estudante](Mapas%20de%20empatia/mapa%20de%20empatia%20empresa.png)
 
+
+## Lean Canvas
+
+[Lean canvas](/Mapas%20de%20empatia/leancanvas1.pdf)
 ## Roadmap
 
 Para o desenvolvimento da solução dividimos o desenvolvimento em duas etapas, sendo a primeira a ser executada durante o Hackathon e a segunda após o termino devido o tamanho da solução.
@@ -46,6 +50,7 @@ Conteúdo a ser produzido após o termino do Hackathon
 - [ ] Adicionar Login e autenticação
 - [ ] Possibilidade de inclusão de foto para participante
 - [ ] Possibilidade de inclusão de certificados ao participante
+- [ ] Avaliação psicológica do perfil comportamental dos usuários
   
 ### Repositórios 
 No desenvolvimento dessa solução dividimos em 3 repositórios sendo um repositório para a API, um repositório para o frontend e um repositório para a documentação produzida no evento. Os links se encontram abaixo:
