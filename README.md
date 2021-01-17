@@ -43,7 +43,9 @@ Conteúdo a ser produzido após o termino do Hackathon
 - [ ] Seleção de candidatos por vagas de acordo com seu currículo e pretensões
 - [ ] Avaliação das empresas de acordo com o feedback retornado aos 
 - [ ] Adicionar Login e autenticação
-- [ ] 
+- [ ] Possibilidade de inclusão de foto para participante
+- [ ] Possibilidade de inclusão de certificados ao participante
+  
 ### Repositórios 
 No desenvolvimento dessa solução dividimos em 3 repositórios sendo um repositório para a API, um repositório para o frontend e um repositório para a documentação produzida no evento. Os links se encontram abaixo:
 
