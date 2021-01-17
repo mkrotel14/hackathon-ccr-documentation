@@ -78,7 +78,7 @@ Formado em em técnico em eletrotécnica
 
 <ricardofedrigo1995@gmail.com>
 <div>
-    <img src="img/monegat.jpg" style="width:100pt;border-radius:50%">
+    <img src="img/monegat1.jpg" style="width:100pt;border-radius:50%">
 </div>
 <h6> Andre Lucas Monegat Costa </h6> 
  
