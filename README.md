@@ -34,8 +34,8 @@ Conteúdo produzido durante o Hackathon
 
 - [x] API para Cadastro de Aluno, Empresa e blog.
 - [x] Pagina de Cadastro de Aluno
-- [ ] Pagina de cadastro de dados da Empresa
-- [ ] Pagina de seleção de candidato da Empresa *
+- [x] Pagina de cadastro de dados da Empresa
+- [x] Pagina de seleção de candidato da Empresa *
 - [ ] Pagina de Empresas interessadas num Aluno
 - [ ] Pagina do Blog de auxilio ao primeiro emprego
 
