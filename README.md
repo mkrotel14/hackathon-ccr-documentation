@@ -115,7 +115,7 @@ Eletrônicas, CAD e Design.
 <ezequielcluz@gmail.com>
 
 <div>
-    <img src="img/paulo.jpg" style="width:100pt;border-radius:50%">
+    <img src="img/paulo1.jpg" style="width:100pt;border-radius:50%">
 </div>
 <h6> Paulo Roberto Vieira</h6> 
 
