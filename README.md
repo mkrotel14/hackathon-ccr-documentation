@@ -35,19 +35,11 @@ Para o desenvolvimento da solução dividimos o desenvolvimento em duas etapas, 
 Conteúdo produzido durante o Hackathon 
 
 - [x] API para Cadastro de Aluno, Empresa e blog.
-<<<<<<< HEAD
 - [x] Pagina de Cadastro de Aluno
 - [x] Pagina de cadastro de dados da Empresa
 - [x] Pagina de seleção de candidato da Empresa *
 - [x] Pagina de Empresas interessadas num Aluno
 - [x] Pagina do Blog de auxilio ao primeiro emprego
-=======
-- [x] Pagina de Cadastro de Aluno.
-- [x] Pagina de cadastro de dados da Empresa.
-- [x] Pagina de seleção de candidato da Empresa *.
-- [ ] Pagina de Empresas interessadas em um Aluno.
-- [ ] Pagina do Blog de auxilio ao primeiro emprego.
->>>>>>> 80b7f37f4e83fe3d7f4607cb4ae9f913f2ca42e1
 
 <h6>* Seleção de candidatos até o momento sera feita com o avaliador selecionando os filtros que correspondem o currículo e pretensões necessárias a vaga. Esta solução foi escolhida para contemplar o tempo do evento e sera alterada na segunda etapa.</h6>
 
