@@ -37,8 +37,8 @@ Conteúdo produzido durante o Hackathon
 - [x] Pagina de Cadastro de Aluno
 - [x] Pagina de cadastro de dados da Empresa
 - [x] Pagina de seleção de candidato da Empresa *
-- [ ] Pagina de Empresas interessadas num Aluno
-- [ ] Pagina do Blog de auxilio ao primeiro emprego
+- [x] Pagina de Empresas interessadas num Aluno
+- [x] Pagina do Blog de auxilio ao primeiro emprego
 
 <h6>* Seleção de candidatos até o momento sera feita com o avaliador selecionando os filtros que correspondem o currículo e pretensões necessárias a vaga. Esta solução foi escolhida para contemplar o tempo do evento e sera alterada na segunda etapa.</h6>
 #### Etapa 2: 
@@ -61,6 +61,9 @@ No desenvolvimento dessa solução dividimos em 3 repositórios sendo um reposit
 ### Tecnologias utilizadas
 Backend foi desenvolvido com Express e Typescript com banco de dados não relacional mongoDb, FrontEnd foi desenvolvido em ReactNative.
 
+### Apresentação
+
+[Apresentação](/apresentação/emprega%20ai.pdf)
 ### Nossa equipe
 <div>
      <img src="img/Gian.jpg" href="" style="width:100pt;border-radius:50%">
