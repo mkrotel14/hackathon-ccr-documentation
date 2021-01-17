@@ -71,6 +71,7 @@ com experiencia na area de programação.
 
 Estudante de Ciência da Computação
 programador com experiencia em desenvolvimento.
+Formado em em técnico em eletrotécnica   
 [RicardoFedrigo](https://github.com/RicardoFedrigo)
 <ricardofedrigo1995@gmail.com>
 <div>
@@ -85,7 +86,7 @@ programação e projeto.
 [Monegat](https://github.com/Monegat)
 <andre@monegat.com.br>
 <div>
-    <img src="img/caleb.jpg" style="width:20%;border-radius:50%">
+    <img src="img/caleb1.jpg" style="width:20%;border-radius:50%">
 </div>
 ######Calebe de Carvalho Luz
 
