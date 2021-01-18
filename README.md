@@ -65,7 +65,7 @@ Backend foi desenvolvido com Express e Typescript com banco de dados não relaci
 
 ### Apresentação
 
-[Apresentação](/apresentação/emprega%20ai.pdf)
+[Apresentação](/apresentação/emprega%20ai.pdf) | [Video Aplicativo](https://www.youtube.com/watch?v=eFXr8s8jd0o&feature=youtu.be) | [Video Pitch](https://www.youtube.com/watch?v=YkdTZOazIzA&feature=youtu.be)
 ### Nossa equipe
 <div>
      <img src="img/Gian.jpg" href="" style="width:100pt;border-radius:50%">
