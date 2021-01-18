@@ -1,7 +1,7 @@
 ![logo](Mapas%20de%20empatia/../Mapas%20de%20empatia/logoazul.png)
 # Documentação referente a solução produzido pelo Time16 para o 2° Hackathon CCR 
 ## Sobre a solução Emprega ai
-Durante o Hackathon desenvolvemos uma solução que visa trazer oportunidades de emprego e estagio para estudantes de ensino médio e universitários com alguma vulnerabilidade social. Como medida de melhorar a combinatória de currículos para vagas incluímos as pretensões tanto para com os candidatos para quanto o que os entrevistadores esperam das vagas.
+Durante o Hackathon desenvolvemos uma solução que visa trazer oportunidades de emprego e estagio para estudantes de ensino médio e universitários com alguma vulnerabilidade social. Nossa solução visa reduzir a distância entre a empresa e potenciais estagiários, jovens aprendizes ou empregados. Como medida de melhorar a combinatória de currículos para vagas, incluímos as pretensões dos candidatos que serão utilizadas pelos entrevistadores para seleção. A solução é um aplicativo que visa possibilitar capacitação de jovens nas áreas que eles tem maior afinidade.
 
 ### Responsabilidade social
 #### Feedback ao usuário
